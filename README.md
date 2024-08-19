@@ -9,13 +9,13 @@ Cara kerjanya seperti ini:
 - Hal ini akan menghabiskan thread pool server dan server tidak dapat membalas permintaan dari orang lain.
 
 # cara penggunaan
-python3 slowloris.py [-h] [-p PORT] [-s SOCKET]
-                     [-v] [-ua] [-x]
-                     [--proxy-host PROXY_HOST]
-                     [--proxy-port PROXY_PORT]
-                     [--https]
-                     [--sleeptime SLEEPTIME]
-                     [host]
+- python3 slowloris.py [-h] [-p PORT] [-s SOCKET]
+-                     [-v] [-ua] [-x]
+-                    [--proxy-host PROXY_HOST]
+-                    [--proxy-port PROXY_PORT]
+-                    [--https]
+-                    [--sleeptime SLEEPTIME]
+-                    [host]
 host   host to perform test
 options :
 -h --help
