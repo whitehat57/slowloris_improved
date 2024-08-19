@@ -10,12 +10,12 @@ Cara kerjanya seperti ini:
 
 # cara penggunaan
 - python3 slowloris.py [-h] [-p PORT] [-s SOCKET]
-                   +  [-v] [-ua] [-x]
-                   +  [--proxy-host PROXY_HOST]
-                   +  [--proxy-port PROXY_PORT]
-                   +  [--https]
-                   +  [--sleeptime SLEEPTIME]
-                   +  [host]
++  [-v] [-ua] [-x]
++  [--proxy-host PROXY_HOST]
++  [--proxy-port PROXY_PORT]
++  [--https]
++  [--sleeptime SLEEPTIME]
++  [host]
 - host   host to perform test
 * options :
 + -h --help
